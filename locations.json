@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Pantheon",
+        "address": "Piazza della Rotonda, 00186 Roma RM, Italy",
+        "latitude": 41.898636026719224,
+        "longitude": 12.476880170327044,
+        "tags": ["landmark"]
+    },
+    {
+        "name": "Colosseum",
+        "address": "Piazza del Colosseo, 1, 00184 Roma RM, Italy",
+        "latitude": 41.890303994885,
+        "longitude": 12.492248227572805,
+        "tags": ["landmark"]
+    }
+]
